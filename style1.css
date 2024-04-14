@@ -1,0 +1,57 @@
+body{
+    background-image: url(pexels-photo-17389837.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22pt;
+    font-style: normal;
+    font-weight: bold;
+    color:rgb(241, 188, 11);
+    text-align: center;
+    text-decoration: underline;
+    box-shadow: 10px;
+}
+table{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(187, 241, 125);
+    font-size: 19.5px;
+    font-style: normal;
+    background-color: rgb(205, 202, 181);
+    border-collapse: collapse;
+    border: 2px solid rgb(2, 2, 39);
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+table.inner{
+    border: 0px
+    }
+
+input{
+    background: url(pexels-photo-4589063.jpeg);
+    width: 250px;
+    height: 23px;
+    color: black
+    border-radius: 20px;
+    text-align: justify;
+}    
+
+button{
+    background: url(pexels-photo-4589063.jpeg);
+    width: 100px;
+    height: 25px;
+    color: rgb(31, 1, 51);
+    display: block;
+}
+select{
+    background: url(pexels-photo-4589063.jpeg);
+    width: 80px;
+    height: 25px;
+    color: black
+    border-radius: 20px;
+    text-align: justify;
+}
