@@ -45,7 +45,7 @@ button{
     width: 100px;
     height: 25px;
     color: rgb(31, 1, 51);
-    display: block;
+    display: inline-block;
 }
 select{
     background: url(pexels-photo-4589063.jpeg);
